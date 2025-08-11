@@ -30,8 +30,13 @@ Copy
 Edit
 .
 ├── Bengaluru_House_Data.csv      # Raw dataset
+
 ├── copied.csv                    # Processed dataset for prediction
+
 ├── model.ipynb                   # Jupyter Notebook for model building
+
 ├── model.pkl                     # Trained ML model
+
 ├── frontend.py                   # Streamlit frontend code
+
 └── README.md                     # Project documentation
